@@ -1,0 +1,22 @@
+version: '3'
+services:
+  springboot-app:
+    build:
+      context: ./customersinfo
+      dockerfile: Dockerfile
+    image: jumia-customers-info-be
+    container_name: customerinfobe
+    ports:
+      - "8081:8081" # Forward the exposed port 8010 on the container to port 8010 on the host machine
+    restart: always
+  alngular-app:
+    build:
+      context: ./customers-fe
+      dockerfile: Dockerfile
+    image: jumia-customers-info-fe
+    container_name: customersinfofe
+    ports:
+      - "4200:80" # Forward the exposed port 4200 on the container to port 4200 on the host machine
+    restart: always
+    depends_on:
+      - springboot-app
