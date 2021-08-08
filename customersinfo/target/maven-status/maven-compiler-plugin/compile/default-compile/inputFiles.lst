@@ -1,0 +1,16 @@
+D:\jumia\customersinfo\src\main\java\com\jumia\customersinfo\controller\PhoneNumberController.java
+D:\jumia\customersinfo\src\main\java\com\jumia\customersinfo\repository\PhoneNumberRepository.java
+D:\jumia\customersinfo\src\main\java\com\jumia\customersinfo\dialect\SQLiteIdentityColumnSupport.java
+D:\jumia\customersinfo\src\main\java\com\jumia\customersinfo\entity\Customer.java
+D:\jumia\customersinfo\src\main\java\com\jumia\customersinfo\entity\enums\PhoneNumberState.java
+D:\jumia\customersinfo\src\main\java\com\jumia\customersinfo\service\CountryService.java
+D:\jumia\customersinfo\src\main\java\com\jumia\customersinfo\entity\Country.java
+D:\jumia\customersinfo\src\main\java\com\jumia\customersinfo\dialect\DBConfig.java
+D:\jumia\customersinfo\src\main\java\com\jumia\customersinfo\service\PhoneNumberService.java
+D:\jumia\customersinfo\src\main\java\com\jumia\customersinfo\dialect\SQLiteDialect.java
+D:\jumia\customersinfo\src\main\java\com\jumia\customersinfo\entity\PhoneNumber.java
+D:\jumia\customersinfo\src\main\java\com\jumia\customersinfo\util\PageRequestBuilder.java
+D:\jumia\customersinfo\src\main\java\com\jumia\customersinfo\service\PhoneNumberServiceImpl.java
+D:\jumia\customersinfo\src\main\java\com\jumia\customersinfo\service\CountryServiceImpl.java
+D:\jumia\customersinfo\src\main\java\com\jumia\customersinfo\repository\CustomerRepository.java
+D:\jumia\customersinfo\src\main\java\com\jumia\customersinfo\CustomersinfoApplication.java

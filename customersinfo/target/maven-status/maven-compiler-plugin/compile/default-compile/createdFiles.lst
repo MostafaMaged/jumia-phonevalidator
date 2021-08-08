@@ -1,0 +1,16 @@
+com\jumia\customersinfo\service\PhoneNumberServiceImpl.class
+com\jumia\customersinfo\dialect\DBConfig.class
+com\jumia\customersinfo\entity\enums\PhoneNumberState.class
+com\jumia\customersinfo\repository\PhoneNumberRepository.class
+com\jumia\customersinfo\util\PageRequestBuilder.class
+com\jumia\customersinfo\entity\Country.class
+com\jumia\customersinfo\repository\CustomerRepository.class
+com\jumia\customersinfo\entity\PhoneNumber.class
+com\jumia\customersinfo\dialect\SQLiteIdentityColumnSupport.class
+com\jumia\customersinfo\entity\Customer.class
+com\jumia\customersinfo\service\CountryServiceImpl.class
+com\jumia\customersinfo\controller\PhoneNumberController.class
+com\jumia\customersinfo\dialect\SQLiteDialect.class
+com\jumia\customersinfo\service\CountryService.class
+com\jumia\customersinfo\CustomersinfoApplication.class
+com\jumia\customersinfo\service\PhoneNumberService.class
