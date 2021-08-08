@@ -6,7 +6,7 @@ Customersinfo is a single page application in Java that uses Sqlite database to 
  - Making sure that docker daemon is up and running.
 
 ## Running Steps:
- 1. Download customers-fe, customersinfo and docker-compose.yml in any directory
+ 1. Clone the repo in any directory
  2. Open cmd and cd to that directory and run this command **"docker-compose up --build"**
 
 ## Postman collection:
